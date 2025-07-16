@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student of BTech 3rd year CSE at NIT Jalandhar.<br>I love to implement new ideas into the code.
+I'm currently a student of BTech 4th year CSE at NIT Jalandhar.<br>I love to implement new ideas into the code.
 
 
 ## 🌐 Socials:
